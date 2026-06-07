@@ -1,0 +1,16 @@
+{
+  "i5 12400F": {
+    "RTX 3060": {
+      "texture": "High",
+      "shadows": "Low",
+      "reflex": "On + Boost",
+      "digital_vibrance": "75%"
+    },
+    "RTX 4060": {
+      "texture": "Ultra",
+      "shadows": "Medium",
+      "reflex": "On",
+      "digital_vibrance": "80%"
+    }
+  }
+}
